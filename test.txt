@@ -1,1 +1,3 @@
 pierwsza linijka kodu
+
+trzecia linijka, ale druga zmiana pliku
